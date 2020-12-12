@@ -7,9 +7,9 @@ define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
 define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'dwhkar');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'sql7.freemysqlhosting.net');
+define('DB_NAME', 'sql7381724');
+define('DB_USER', 'sql7381724');
+define('DB_PASS', 'ITUMiSaeUn');
 define('DB_CHARSET', 'utf8');
 ?>
